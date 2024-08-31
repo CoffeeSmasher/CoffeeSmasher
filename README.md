@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @CoffeeSmasher, 25 years old.
+- 👋 Hi, I’m @CoffeeSmasher.
+- I born in 97's.
 - 👀 I’m interested in Machine Learning, BigData and Robotics.
 - 🌱 I’m currently learning JavaScript and C language.
 - 💞️ I’m looking to collaborate on mobile and develpment of games.
